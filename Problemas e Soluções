@@ -1,0 +1,15 @@
+1º) O primeiro problema que surgiu no projeto, foi que por usarmos a linguagem java para o desenvolvimento, não estavamos conseguindo conectar o banco de dados.
+
+  SOLUÇÃO: Mudamos a linguagem de desenvolvimento para php.
+
+2º) Com a linguagem do desenvolvimento mudada, para php, ainda estavamos com problemas no banco de dados, entretando desta vez na conecção do banco de dados com o site.
+
+  SOLUÇÃO: Após vermos vídeos aulas, conseguimos aprender a conectar o banco de dados.
+
+3º) Após criarmos estrelas para avaliação, não estávamos conseguindo com que o banco de dados guardasse o número certo quando clicado.
+
+  SOLUÇÃO: Ainda não foi resolvido o problema.
+  
+4º) A interface não estava muito boa.
+
+  SOLUÇÃO: Mudamos para uma framework.
